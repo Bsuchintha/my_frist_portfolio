@@ -1,0 +1,113 @@
+.{
+    margin: 0px;
+    padding: 0px;
+    font-family: century;
+
+}
+
+header {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0.5),rgba(0,0,0.5)), url(immm.jfif);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin-top: 30px;
+    min-height: 40px;
+    margin-right: 60px;
+    font-size: 20px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+    
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+    
+}
+
+ul li a:hover{
+    background-color:red ;
+    color: yellow;
+
+}
+
+.logo img {
+    float: left;
+    width: 100px;
+    height: auto;
+}
+
+.main {
+    max-width: 1200px;
+    margin:auto;
+}
+
+.title {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+.title h1 {
+    color: antiquewhite;
+    font-size: xx-large;
+    
+}
+
+.text { 
+    position: absolute;
+    top: 25%;
+    left: 12%;
+
+}
+
+.text h2 {
+    color: antiquewhite;
+    font-size: large;
+}
+
+.btn {
+    
+    position: absolute;
+    top: 50%;
+    color: aliceblue;
+    right: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
